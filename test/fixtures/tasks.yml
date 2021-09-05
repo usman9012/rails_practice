@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  daily_task: 
+  date: 2021-09-05 22:15:19
+  belong_to: 
+
+two:
+  daily_task: 
+  date: 2021-09-05 22:15:19
+  belong_to: 
