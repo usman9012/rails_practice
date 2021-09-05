@@ -15,7 +15,7 @@ ActiveRecord::Schema.define(version: 20210905171519) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "tasks", force: :cascade do |t|
+  create_table "task", force: :cascade do |t|
     t.string "daily_task"
     t.datetime "date"
     t.bigint "users_id"
